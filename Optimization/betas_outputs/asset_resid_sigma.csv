@@ -1,0 +1,22 @@
+asset,sigma_eps
+"US Treasuries, Short/Intermediate",0.0017181019809702216
+"US Treasuries, Long",0.010814736770979895
+US Taxable Munis,0.008861147112190765
+"Global ex-US Government, hedged",0.005715412741256777
+US Public Corporates IG AAA,0.002973629205066998
+US Public Corporates IG AA,0.0040547202981045085
+US Public Corporates IG A,0.004536261923445344
+US Public Corporates IG BBB,0.006099624325865248
+"US Public Corporates, HY Intermediate",0.014836617591317491
+"US Public Corporates, HY Long",0.01825196448310386
+"Global ex-US Corporates, hedged",0.003815146322057776
+Residential Mortgage-Backed Securities (RMBS),0.005790319568435067
+Commercial Mortgage-Backed Securities (CMBS),0.017588918591811994
+Asset-Backed Securities (ABS),0.0061636689023402925
+Corporate IG Private Placement A,0.006536428206972126
+Corporate IG Private Placement BBB,0.0076846839877227945
+Corporate HY Private (Leveraged Loans),0.0070804422707002115
+Residential Mortgage Whole Loans,0.007198046049606462
+Commercial Mortgage Whole Loans,0.020227890517603073
+Private Equity,0.027617934387730362
+"Real Estate (via partnerships, equity)",0.0360803711083413

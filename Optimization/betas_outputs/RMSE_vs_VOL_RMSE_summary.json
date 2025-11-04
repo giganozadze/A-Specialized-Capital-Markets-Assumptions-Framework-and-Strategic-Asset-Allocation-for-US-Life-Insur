@@ -1,0 +1,68 @@
+{
+  "H1_median_Surplus_CAGR": 0.005536718778692218,
+  "H2_prob_Surplus_lt_0": 0.3221,
+  "H2_prob_SurplusCAGR_lt_Discount": 0.9978,
+  "H3_SurplusPerRBC": 0.7289936264244672,
+  "A_CAGR_summary": {
+    "p5": 0.026326647038433303,
+    "p25": 0.038028762446093045,
+    "p50": 0.04651757190987693,
+    "p75": 0.05508173687772755,
+    "p95": 0.06722159122057045
+  },
+  "L_CAGR_summary": {
+    "p5": 0.040340495184390514,
+    "p25": 0.04057508111461189,
+    "p50": 0.04074022791191889,
+    "p75": 0.040906628900101716,
+    "p95": 0.041146521380775035
+  },
+  "S_CAGR_summary": {
+    "p5": -0.013606672786943452,
+    "p25": -0.0024748224405219954,
+    "p50": 0.005536718778692218,
+    "p75": 0.013681502278679925,
+    "p95": 0.02512631432872123
+  },
+  "S_end_summary": {
+    "p5": -0.19052158616498377,
+    "p25": -0.03639970448638036,
+    "p50": 0.08465589531287199,
+    "p75": 0.21715199976830157,
+    "p95": 0.4208666367547543
+  },
+  "weights": {
+    "US Treasuries, Short/Intermediate": 0.02735719922665028,
+    "US Treasuries, Long": 0.019292044167817858,
+    "US Taxable Munis": 0.02294457023912717,
+    "Global ex-US Government, hedged": 6.304058648232561e-11,
+    "US Public Corporates IG AAA": 0.09863954027785256,
+    "US Public Corporates IG AA": 0.08093713258587457,
+    "US Public Corporates IG A": 0.09999999979800354,
+    "US Public Corporates IG BBB": 0.03238614237545877,
+    "US Public Corporates, HY Intermediate": 0.004449667384463155,
+    "US Public Corporates, HY Long": 0.024949136491167933,
+    "Global ex-US Corporates, hedged": 0.07972965097737433,
+    "Residential Mortgage-Backed Securities (RMBS)": 0.09999575466461263,
+    "Commercial Mortgage-Backed Securities (CMBS)": 0.08989930722555388,
+    "Asset-Backed Securities (ABS)": 0.013277504118545412,
+    "Corporate IG Private Placement A": 0.09999999995141044,
+    "Corporate IG Private Placement BBB": 0.09999999993184243,
+    "Corporate HY Private (Leveraged Loans)": 0.0035493115157160604,
+    "Residential Mortgage Whole Loans": 0.09999999991746243,
+    "Commercial Mortgage Whole Loans": 0.0025930390442477596,
+    "Private Equity": 3.1426363500407883e-11,
+    "Real Estate (via partnerships, equity)": 1.2351628592440045e-11
+  },
+  "params": {
+    "N_paths": 10000,
+    "T_months": 120,
+    "liability_params": {
+      "accrual": 0.0033333333333333335,
+      "beta_AL": -0.08,
+      "beta_dS": -0.01
+    },
+    "p_normal": 0.35793357933579334
+  },
+  "RBC_value": 0.007595016716193321
+}

@@ -1,0 +1,15 @@
+{
+  "H1_SurplusCAGR_RMSE": 0.005536718778692218,
+  "H1_SurplusCAGR_VOL": 0.0056018570971317905,
+  "H1_Difference_RMSE_minus_VOL": -6.513831843957263e-05,
+  "H2_P(S_end<0)_RMSE": 0.3221,
+  "H2_P(S_end<0)_VOL": 0.325,
+  "H2_Diff_PctPts": -0.0029000000000000137,
+  "H2_P(S_CAGR<Disc)_RMSE": 0.9978,
+  "H2_P(S_CAGR<Disc)_VOL": 0.9972,
+  "H2_Diff_PctPts_CAGRvsDisc": 0.0006000000000000449,
+  "H3_SurplusPerRBC_RMSE": 0.7289936264244672,
+  "H3_SurplusPerRBC_VOL": 0.7406376032701306,
+  "H3_Difference": -0.011643976845663428,
+  "liab_discount_rate_used": 0.04
+}

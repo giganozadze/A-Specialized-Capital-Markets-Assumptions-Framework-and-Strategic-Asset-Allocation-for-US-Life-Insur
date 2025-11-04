@@ -1,0 +1,22 @@
+Asset,ΔL,ΔS,SprIG,E,R-squared
+"US Treasuries, Short/Intermediate",-0.010***,0.002***,-0.000*,-0.000,0.964
+"US Treasuries, Long",-0.029***,-0.006***,-0.000,0.000,0.897
+US Taxable Munis,-0.010***,0.000,-0.006***,-0.001,0.578
+"Global ex-US Government, hedged",-0.008***,0.000,-0.002**,-0.000,0.642
+US Public Corporates IG AAA,-0.011***,0.002***,-0.002***,-0.000,0.921
+US Public Corporates IG AA,-0.014***,0.002***,-0.008***,-0.000,0.920
+US Public Corporates IG A,-0.015***,0.002***,-0.013***,0.000,0.935
+US Public Corporates IG BBB,-0.015***,0.003***,-0.017***,-0.000,0.908
+"US Public Corporates, HY Intermediate",-0.004***,0.004***,-0.023***,-0.000,0.682
+"US Public Corporates, HY Long",-0.010***,0.006***,-0.031***,0.000,0.722
+"Global ex-US Corporates, hedged",-0.011***,0.002***,-0.011***,-0.000,0.910
+Residential Mortgage-Backed Securities (RMBS),-0.010***,0.003***,-0.003***,-0.001*,0.722
+Commercial Mortgage-Backed Securities (CMBS),-0.011***,0.003***,-0.012***,0.001,0.359
+Asset-Backed Securities (ABS),-0.006***,0.003***,-0.006***,0.000,0.553
+Corporate IG Private Placement A,-0.003***,0.002***,-0.004***,0.001***,0.248
+Corporate IG Private Placement BBB,-0.002***,0.002***,-0.004***,0.001**,0.215
+Corporate HY Private (Leveraged Loans),0.001***,0.002***,-0.018***,-0.002,0.880
+Residential Mortgage Whole Loans,-0.013***,0.002*,-0.004***,-0.001,0.787
+Commercial Mortgage Whole Loans,-0.009***,0.003**,-0.012***,0.001,0.327
+Private Equity,0.002,-0.003,-0.001,0.053***,0.803
+"Real Estate (via partnerships, equity)",0.000,-0.004,-0.002,0.036***,0.524

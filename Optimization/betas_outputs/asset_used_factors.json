@@ -1,0 +1,103 @@
+{
+  "US Treasuries, Short/Intermediate": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "US Treasuries, Long": [
+    "\u0394L",
+    "\u0394S"
+  ],
+  "US Taxable Munis": [
+    "\u0394L",
+    "SprIG"
+  ],
+  "Global ex-US Government, hedged": [
+    "\u0394L",
+    "SprIG"
+  ],
+  "US Public Corporates IG AAA": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "US Public Corporates IG AA": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "US Public Corporates IG A": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "US Public Corporates IG BBB": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "US Public Corporates, HY Intermediate": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "US Public Corporates, HY Long": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Global ex-US Corporates, hedged": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Residential Mortgage-Backed Securities (RMBS)": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG",
+    "E"
+  ],
+  "Commercial Mortgage-Backed Securities (CMBS)": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Asset-Backed Securities (ABS)": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Corporate IG Private Placement A": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG",
+    "E"
+  ],
+  "Corporate IG Private Placement BBB": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG",
+    "E"
+  ],
+  "Corporate HY Private (Leveraged Loans)": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Residential Mortgage Whole Loans": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Commercial Mortgage Whole Loans": [
+    "\u0394L",
+    "\u0394S",
+    "SprIG"
+  ],
+  "Private Equity": [
+    "E"
+  ],
+  "Real Estate (via partnerships, equity)": [
+    "E"
+  ]
+}
